@@ -30,14 +30,14 @@ python blackjack.py
 ```
 
 ## How to Play
--You're dealt two cards, and one dealer card is shown.
--Your goal is to reach 21 without going over (bust).
--You can choose to:
--hit: draw another card
--stand: keep your current hand
--Aces count as 1 or 11, whichever is more favorable.
--Dealer must stand on 17 or higher.
--The closest to 21 wins — or it's a tie if scores match.
+- You're dealt two cards, and one dealer card is shown.
+- Your goal is to reach 21 without going over (bust).
+- You can choose to:
+- hit: draw another card
+- stand: keep your current hand
+- Aces count as 1 or 11, whichever is more favorable.
+- Dealer must stand on 17 or higher.
+- The closest to 21 wins — or it's a tie if scores match.
 
 ## Sample Output
 <img width="451" height="884" alt="image" src="https://github.com/user-attachments/assets/6449dc61-f566-428c-a089-868d0dc80165" />
