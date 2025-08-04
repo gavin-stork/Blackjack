@@ -24,10 +24,10 @@ A terminal-based Blackjack game built in Python using `asyncio`. Play against a 
 ### Run the Game
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/blackjack-terminal-game.git
-   cd blackjack-terminal-game
+   - git clone https://github.com/yourusername/blackjack-terminal-game.git
+   - cd blackjack-terminal-game
 2. Run the game
-   python blackjack.py
+   - python blackjack.py
 
 ## How to Play
 You're dealt two cards, and one dealer card is shown.
@@ -40,47 +40,5 @@ Dealer must stand on 17 or higher.
 The closest to 21 wins — or it's a tie if scores match.
 
 ## Sample Output
+<img width="451" height="884" alt="image" src="https://github.com/user-attachments/assets/6449dc61-f566-428c-a089-868d0dc80165" />
 
-========================================
-         Welcome to Blackjack!
-========================================
-
-Goal: Get as close to 21 as possible without going over.
-Rules:
- - Number cards are worth their value (2-10).
- - Face cards (Jack, Queen, King) are worth 10 points.
- - Aces can be worth 1 or 11 points, whichever helps you more.
- - If you are dealt 21, you win immediately!
- - If you go over 21, you bust and lose.
- - Dealer must stand on 17 or higher.
- - If you and dealer have the same total, it's a tie (push).
-
-Dealer visible card:
-  - 8 of Hearts
-
-Your hand:
-  - King of Spades
-  - 7 of Clubs
-
-Your total: 17
-
-Do you want to hit or stand? (h/s): s
-
-You chose to stand at 17.
-
-Dealer flips 9 of Diamonds
-Dealer's hand:
-  - 8 of Hearts
-  - 9 of Diamonds
-
-Dealer's total: 17
-
-Dealer stands at 17.
-
-========================================
-              Final Result
-========================================
-Your final total: 17
-Dealer final total: 17
-
-It's a push (tie)!
