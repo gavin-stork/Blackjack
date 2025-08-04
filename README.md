@@ -21,13 +21,13 @@ A terminal-based Blackjack game built in Python using `asyncio`. Play against a 
 
 - Python 3.7 or higher
 
-### Run the Game
+### Running the Game
 
-1. Clone the repository:
-   - git clone https://github.com/yourusername/blackjack-terminal-game.git
-   - cd blackjack-terminal-game
-2. Run the game
-   - python blackjack.py
+```bash
+git clone https://github.com/yourusername/blackjack-terminal-game.git
+cd blackjack-terminal-game
+python blackjack.py
+```
 
 ## How to Play
 You're dealt two cards, and one dealer card is shown.
