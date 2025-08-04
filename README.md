@@ -33,8 +33,8 @@ python blackjack.py
 - You're dealt two cards, and one dealer card is shown.
 - Your goal is to reach 21 without going over (bust).
 - You can choose to:
-- hit: draw another card
-- stand: keep your current hand
+  - hit: draw another card
+  - stand: keep your current hand
 - Aces count as 1 or 11, whichever is more favorable.
 - Dealer must stand on 17 or higher.
 - The closest to 21 wins — or it's a tie if scores match.
