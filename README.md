@@ -25,7 +25,7 @@ A terminal-based Blackjack game built in Python using `asyncio`. Play against a 
 
 ```bash
 git clone https://github.com/gavin-stork/blackjack.git
-cd blackjack-terminal-game
+cd blackjack
 python blackjack.py
 ```
 
