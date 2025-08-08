@@ -42,3 +42,9 @@ python blackjack.py
 ## Sample Output
 <img width="451" height="884" alt="image" src="https://github.com/user-attachments/assets/6449dc61-f566-428c-a089-868d0dc80165" />
 
+---
+
+## Author
+Gavin Stork
+
+
