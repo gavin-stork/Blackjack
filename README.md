@@ -1,4 +1,4 @@
-# Blackjack Terminal Game 🎲🃏
+# Blackjack Terminal Game 
 
 A terminal-based Blackjack game built in Python using `asyncio`. Play against a dealer with realistic card handling, smart Ace evaluation (1 or 11), and a clean, readable user interface. Contains no gambling specific logic (betting, doubling, splitting) only playing.
 
