@@ -6,12 +6,12 @@ A terminal-based Blackjack game built in Python using `asyncio`. Play against a 
 
 ## Features
 
-- ✅ Full 52-card deck with random shuffle  
-- 🧠 Dynamic Ace values (1 or 11)  
-- 💻 Terminal-friendly UI — no external libraries  
-- 🤖 Dealer logic that stands on 17 or higher  
-- ❌ Detects busts and handles ties ("push")  
-- ⏱ Uses `asyncio` for smoother game flow  
+- Full 52-card deck with random shuffle  
+- Dynamic Ace values (1 or 11)  
+- Terminal-friendly UI — no external libraries  
+- Dealer logic that stands on 17 or higher  
+- Detects busts and handles ties ("push")  
+- Uses `asyncio` for smoother game flow  
 
 ---
 
