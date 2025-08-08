@@ -19,7 +19,7 @@ A terminal-based Blackjack game built in Python using `asyncio`. Play against a 
 
 ### Requirements
 
-- Python 3.7 or higher
+- Python 3 or higher
 
 ### Running the Game
 
